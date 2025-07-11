@@ -1,0 +1,48 @@
+{
+    "PLAN": {
+        "BASIC": {
+            "id": 0,
+            "name": "BASIC",
+            "price": 0,
+            "resources": {
+                "cpu": 0,
+                "ram": 0,
+                "disk": 0,
+                "server": 0
+            }
+        },
+        "STARTER": {
+            "id": 1,
+            "name": "Starter",
+            "price": 1000,
+            "resources": {
+                "cpu": 100,
+                "ram": 1000,
+                "disk": 1000,
+                "server": 1
+            }
+        },
+        "PREMIUM": {
+            "id": 2,
+            "name": "Premium",
+            "price": 3000,
+            "resources": {
+                "cpu": 300,
+                "ram": 3000,
+                "disk": 3000,
+                "server": 3
+            }
+        },
+        "PRO": {
+            "id": 3,
+            "name": "Pro",
+            "price": 6000,
+            "resources": {
+                "cpu": 600,
+                "ram": 6000,
+                "disk": 6000,
+                "server": 6
+            }
+        }
+    }
+}
