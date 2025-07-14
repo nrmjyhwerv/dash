@@ -18,7 +18,7 @@
             "resources": {
                 "cpu": 100,
                 "ram": 1000,
-                "disk": 1000,
+                "disk": 1,
                 "server": 1
             }
         },
@@ -29,7 +29,7 @@
             "resources": {
                 "cpu": 300,
                 "ram": 3000,
-                "disk": 3000,
+                "disk": 3,
                 "server": 3
             }
         },
@@ -40,7 +40,7 @@
             "resources": {
                 "cpu": 600,
                 "ram": 6000,
-                "disk": 6000,
+                "disk": 6,
                 "server": 6
             }
         }
