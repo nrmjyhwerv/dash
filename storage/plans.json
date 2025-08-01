@@ -39,7 +39,7 @@
             "price": 16000,
             "resources": {
                 "cpu": 300,
-                "ram": 2000,
+                "ram": 3000,
                 "disk": 3,
                 "server": 3
             }
