@@ -27,9 +27,9 @@
             "name": "Premium",
             "price": 5000,
             "resources": {
-                "cpu":2300,
+                "cpu":200,
                 "ram": 2000,
-                "disk": 1,
+                "disk": 2,
                 "server": 2
             }
         },
